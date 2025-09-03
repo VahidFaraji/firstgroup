@@ -1,1 +1,1 @@
-print("Bruh")
+print("Test")
